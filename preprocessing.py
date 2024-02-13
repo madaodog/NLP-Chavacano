@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
+import math
 
 df = pd.read_parquet('0000.parquet')
 
@@ -8,8 +8,10 @@ tokens = text_data['tokens']
 tags = text_data['ner_tags']
 
 
-train_df, temp_df = train_test_split(df, test_size=0.15, random_state=42)
-dev_df, test_df = train_test_split(temp_df, test_size=0.5, random_state=42)
+
+train_df_length = math.ceil(0.7 * len(df))
+dev_df_length = math.ceil(0.85 * len(df))
+test_df_length = len(df)
 
 tag_dict = {
     0: 'O',
@@ -29,6 +31,6 @@ def write_to_tsv(df, filename):
                 f.write(str(token) + '\t' + str(tag_label) + '\n')
             f.write('\n')  
 
-write_to_tsv(train_df, 'cbk_train.tsv')
-write_to_tsv(dev_df, 'cbk_dev.tsv')
-write_to_tsv(test_df, 'cbk_test.tsv')
+write_to_tsv(df[:train_df_length], 'cbk_train.tsv')
+write_to_tsv(df[train_df_length:dev_df_length], 'cbk_dev.tsv')
+write_to_tsv(df[dev_df_length:test_df_length], 'cbk_test.tsv')
