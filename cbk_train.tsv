@@ -61,7 +61,7 @@ Chavacano	B-ORG
 Prime	B-ORG
 Network	I-ORG
 
-*1975ñ1989	O
+*1975‚Äì1989	O
 :	O
 The	B-PER
 NFL	I-PER
@@ -71,7 +71,7 @@ studio	O
 host	O
 
 3	O
-Paysand˙	B-LOC
+Paysand√∫	B-LOC
 (	I-LOC
 ciudad	I-LOC
 )	I-LOC
@@ -86,7 +86,7 @@ Jr	I-PER
 
 '	O
 ''	O
-UniÛn	B-ORG
+Uni√≥n	B-ORG
 Europea	I-ORG
 :	O
 '	O
@@ -94,7 +94,7 @@ Europea	I-ORG
 
 Su	O
 primer	O
-·lbum	O
+√°lbum	O
 Sweet	B-ORG
 Kisses	I-ORG
 ''	O
@@ -121,7 +121,7 @@ dentro	O
 del	O
 Top	O
 10	O
-vendiÛ	O
+vendi√≥	O
 considerablemente	O
 bien	O
 .	O
@@ -134,7 +134,7 @@ Irresistible	O
 es	O
 el	O
 segundo	O
-·lbum	O
+√°lbum	O
 de	O
 la	O
 cantante	O
@@ -151,9 +151,9 @@ en	O
 York	B-ORG
 University	I-ORG
 
-…se	O
+√âse	O
 mismo	O
-aÒo	O
+a√±o	O
 ,	O
 Christina	O
 Aguilera	O
@@ -167,7 +167,7 @@ Lil	O
 Kim	O
 y	O
 la	O
-colaboraciÛn	O
+colaboraci√≥n	O
 de	O
 Missy	O
 Elliott	O
@@ -180,7 +180,7 @@ banda	O
 sonora	O
 de	O
 la	O
-pelÌcula	O
+pel√≠cula	O
 ''Moulin	O
 Rouge	O
 ''	O
@@ -191,7 +191,7 @@ exitoso	O
 ''	O
 de	O
 los	O
-aÒos	O
+a√±os	O
 setenta	O
 titulado	O
 Lady	B-ORG
@@ -265,17 +265,17 @@ su	O
 faccion	O
 del	O
 maga	O
-ìMagdiwangî	O
+‚ÄúMagdiwang‚Äù	O
 ya	O
 enfrenta	O
 contra	O
 el	O
 otro	O
-facciÛn	O
+facci√≥n	O
 ,	O
 el	O
 maga	O
-ìMagdalosî	O
+‚ÄúMagdalos‚Äù	O
 ,	O
 dirigido	O
 por	O
@@ -288,7 +288,7 @@ Magdalos	O
 ya	O
 lanza	O
 un	O
-campaÒa	O
+campa√±a	O
 de	O
 desprestigio	O
 contra	O
@@ -314,7 +314,7 @@ es	O
 el	O
 '	O
 ''	O
-·lbum	O
+√°lbum	O
 ''	O
 '	O
 de	O
@@ -363,12 +363,12 @@ Congreso	O
 Filipino	O
 .	O
 
-DespuÈs	O
+Despu√©s	O
 Christina	B-PER
 Aguilera	I-PER
-grabÛ	O
+grab√≥	O
 una	O
-versiÛn	O
+versi√≥n	O
 en	O
 single	O
 en	O
@@ -379,7 +379,7 @@ grabaciones	O
 formaron	O
 parte	O
 del	O
-·lbum	O
+√°lbum	O
 ''Mulan	O
 :	O
 An	O
@@ -391,11 +391,11 @@ Records	O
 
 Bandera	O
 de	O
-MÈxico	B-LOC
+M√©xico	B-LOC
 
 Este	O
-an·lisis	O
-llegÛ	O
+an√°lisis	O
+lleg√≥	O
 a	O
 manos	O
 de	O
@@ -415,9 +415,9 @@ Kong	O
 ,	O
 y	O
 de	O
-allÌ	O
+all√≠	O
 se	O
-recomendÛ	O
+recomend√≥	O
 que	O
 el	O
 General	O
@@ -450,10 +450,10 @@ Filipinas	B-LOC
 
 '	O
 ''	O
-ÑNo	O
+‚ÄûNo	O
 Me	O
 Queda	O
-Masî	O
+Mas‚Äù	O
 ''	O
 '	O
 -	O
@@ -507,7 +507,7 @@ III	O
 para	O
 el	O
 tercer	O
-·lbum	O
+√°lbum	O
 de	O
 estudio	O
 de	O
@@ -520,7 +520,7 @@ Prohibido	I-ORG
 ''	O
 .	O
 
-redirecciÛn	O
+redirecci√≥n	O
 Universidad	B-ORG
 Ateneo	I-ORG
 de	I-ORG
@@ -528,7 +528,7 @@ Manila	I-ORG
 
 '	O
 ''	O
-RamÛn	O
+Ram√≥n	O
 del	O
 Fierro	O
 Magsaysay	O
@@ -590,15 +590,15 @@ Anne	B-PER
 Haney	I-PER
 
 La	O
-UniÛn	B-ORG
+Uni√≥n	B-ORG
 Europea	I-ORG
 busca	O
-tambiÈn	O
+tambi√©n	O
 un	O
 TLC	O
 con	O
 el	O
-Per˙	O
+Per√∫	O
 y	O
 las	O
 negociaciones	O
@@ -638,12 +638,12 @@ Wants	I-ORG
 ''	O
 
 La	O
-situaciÛn	O
-engarzÛ	O
+situaci√≥n	O
+engarz√≥	O
 con	O
 la	O
 crisis	O
-energÈtica	O
+energ√©tica	O
 sufrida	O
 por	O
 Argentina	B-LOC
@@ -703,9 +703,9 @@ maga	O
 cuarto	O
 sencillo	O
 del	O
-espaÒol	O
+espa√±ol	O
 banda	O
-M‰go	B-ORG
+M√§go	B-ORG
 de	I-ORG
 Oz	I-ORG
 .	O
@@ -740,9 +740,9 @@ a	O
 Venezuela	O
 desde	O
 su	O
-formaciÛn	O
+formaci√≥n	O
 ,	O
-vÈase	O
+v√©ase	O
 Presidente	B-ORG
 de	I-ORG
 Venezuela	I-ORG
@@ -750,7 +750,7 @@ Venezuela	I-ORG
 .	O
 
 La	O
-mayorÌa	O
+mayor√≠a	O
 de	O
 las	O
 canciones	O
@@ -767,7 +767,7 @@ el	O
 tema	O
 que	O
 se	O
-tomÛ	O
+tom√≥	O
 como	O
 base	O
 fue	O
@@ -778,7 +778,7 @@ en	O
 especial	O
 en	O
 la	O
-canciÛn	O
+canci√≥n	O
 Dirrty	B-ORG
 ''	O
 .	O
@@ -786,7 +786,7 @@ Dirrty	B-ORG
 ``	O
 Por	O
 siempre	O
-t˙	O
+t√∫	O
 ''	O
 (	O
 I	B-ORG
@@ -824,7 +824,7 @@ de	O
 Christina	O
 Aguilera	O
 se	O
-mostrÛ	O
+mostr√≥	O
 por	O
 primera	O
 vez	O
@@ -835,7 +835,7 @@ del	O
 primer	O
 sencillo	O
 del	O
-·lbum	O
+√°lbum	O
 ''Stripped	O
 ''	O
 titulado	O
@@ -843,7 +843,7 @@ Dirrty	B-ORG
 ''	O
 con	O
 la	O
-colaboraciÛn	O
+colaboraci√≥n	O
 del	O
 rapero	O
 Redman	O
@@ -870,7 +870,7 @@ letra	O
 ''	O
 la	O
 vuelve	O
-m·s	O
+m√°s	O
 sucia	O
 .	O
 
@@ -891,8 +891,8 @@ no	O
 14	O
 de	O
 la	O
-rep˙blica	O
-cambiÛ	O
+rep√∫blica	O
+cambi√≥	O
 el	O
 Tayabas	O
 conocido	O
@@ -984,7 +984,7 @@ Actress	O
 
 '	O
 ''	O
-UniÛn	B-ORG
+Uni√≥n	B-ORG
 Europea	I-ORG
 :	O
 '	O
@@ -995,7 +995,7 @@ Madrid	B-LOC
 Finalmente	O
 ,	O
 se	O
-lanzÛ	O
+lanz√≥	O
 el	O
 quinto	O
 single	O
@@ -1003,22 +1003,22 @@ titulado	O
 Falsas	B-ORG
 esperanzas	I-ORG
 ''	O
-quiz·	O
+quiz√°	O
 es	O
 una	O
 de	O
 las	O
 canciones	O
 con	O
-m·s	O
+m√°s	O
 influencia	O
 latina	O
 que	O
-ning˙n	O
+ning√∫n	O
 otro	O
 track	O
 del	O
-·lbum	O
+√°lbum	O
 ,	O
 fue	O
 un	O
@@ -1028,24 +1028,24 @@ la	O
 radio	O
 mexicana	O
 donde	O
-llegÛ	O
+lleg√≥	O
 a	O
 la	O
-posiciÛn	O
-n˙mero	O
+posici√≥n	O
+n√∫mero	O
 uno	O
 durante	O
 tres	O
 semanas	O
 ,	O
 el	O
-Èxito	O
+√©xito	O
 posiblemente	O
 se	O
-debiÛ	O
+debi√≥	O
 a	O
 que	O
-formÛ	O
+form√≥	O
 parte	O
 de	O
 la	O
@@ -1065,7 +1065,7 @@ de	O
 la	O
 cadena	O
 de	O
-televisiÛn	O
+televisi√≥n	O
 TV	O
 Azteca	O
 .	O
@@ -1120,7 +1120,7 @@ Asia	B-LOC
 .	O
 
 Cinco	O
-aÒos	O
+a√±os	O
 despues	O
 ,	O
 si	O
@@ -1207,7 +1207,7 @@ Filipinas	B-LOC
 Greg	B-PER
 Gumbel	I-PER
 (	O
-1994ñ1995	O
+1994‚Äì1995	O
 )	O
 
 El	O
@@ -1264,12 +1264,12 @@ Filipinas	B-LOC
 .	O
 
 Jessica	O
-comenzÛ	O
+comenz√≥	O
 a	O
 cantar	O
 a	O
 doce	O
-aÒos	O
+a√±os	O
 en	O
 el	O
 coro	O
@@ -1283,9 +1283,9 @@ de	O
 los	O
 padres	O
 :	O
-aquÌ	O
+aqu√≠	O
 se	O
-seÒalÛ	O
+se√±al√≥	O
 por	O
 parte	O
 de	O
@@ -1294,7 +1294,7 @@ agentes	O
 que	O
 tuvo	O
 la	O
-televisiÛn	O
+televisi√≥n	O
 como	O
 conductora	O
 de	O
@@ -1306,10 +1306,10 @@ Mouse	O
 Club	O
 ,	O
 la	O
-transmisiÛn	O
+transmisi√≥n	O
 de	O
 los	O
-niÒos	O
+ni√±os	O
 fue	O
 presentada	O
 en	O

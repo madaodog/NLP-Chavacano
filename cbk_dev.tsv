@@ -43,7 +43,7 @@ Crawford	I-PER
 :	O
 Partido	B-ORG
 Independencia	I-ORG
-Puertorriqueño	I-ORG
+PuertorriqueÃ±o	I-ORG
 
 '	O
 ''	O
@@ -147,10 +147,10 @@ habitantes	O
 
 '	O
 ''	O
-„Bidi	O
+â€Bidi	O
 Bidi	O
 Bom	O
-Bom”	O
+Bomâ€	O
 ''	O
 '	O
 -	O
@@ -210,7 +210,7 @@ del	O
 Filipinas	O
 na	O
 regla	O
-Español	O
+EspaÃ±ol	O
 .	O
 
 '	O

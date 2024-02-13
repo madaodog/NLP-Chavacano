@@ -24,7 +24,7 @@ tag_dict = {
 }
 
 def write_to_tsv(df, filename):
-    with open(filename, 'w') as f:
+    with open(filename, 'w', encoding='utf-8') as f:
         for index, row in df.iterrows():
             for token, tag_index in zip(row['tokens'], row['ner_tags']):
                 tag_label = tag_dict[tag_index]
