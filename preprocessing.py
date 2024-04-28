@@ -19,13 +19,13 @@ def write_to_tsv(df, filename):
             f.write('\n')
 
 # Process cbk_train.parquet
-train_df = pd.read_parquet('cbk_train.parquet')
-write_to_tsv(train_df, 'cbk_train.tsv')
+train_df = pd.read_parquet('train-00000-of-00001.parquet')
+write_to_tsv(train_df, 'tl_train.tsv')
 
 # Process cbk_validation.parquet
-validation_df = pd.read_parquet('cbk_validation.parquet')
-write_to_tsv(validation_df, 'cbk_validation.tsv')
+validation_df = pd.read_parquet('validation-00000-of-00001.parquet')
+write_to_tsv(validation_df, 'tl_validation.tsv')
 
 # Process cbk_test.parquet
-test_df = pd.read_parquet('cbk_test.parquet')
-write_to_tsv(test_df, 'cbk_test.tsv')
+test_df = pd.read_parquet('test-00000-of-00001.parquet')
+write_to_tsv(test_df, 'tl_test.tsv')
